@@ -1,0 +1,5 @@
+c:\users\g\documents\visual studio 2015\Projects\ClosestGridsAddin\ClosestGridsAddin\bin\Debug\ClosestGridsAddin.dll
+c:\users\g\documents\visual studio 2015\Projects\ClosestGridsAddin\ClosestGridsAddin\bin\Debug\ClosestGridsAddin.pdb
+c:\users\g\documents\visual studio 2015\Projects\ClosestGridsAddin\ClosestGridsAddin\obj\Debug\ClosestGridsAddin.dll
+c:\users\g\documents\visual studio 2015\Projects\ClosestGridsAddin\ClosestGridsAddin\obj\Debug\ClosestGridsAddin.pdb
+C:\Users\G\Documents\Visual Studio 2015\Projects\ClosestGridsAddin\ClosestGridsAddin\obj\Debug\ClosestGridsAddin.csprojResolveAssemblyReference.cache

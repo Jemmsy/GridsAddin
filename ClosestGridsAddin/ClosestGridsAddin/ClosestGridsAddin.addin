@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>Application ClosestGridsAddin</Name>
+    <Assembly>ClosestGridsAddin.dll</Assembly>
+    <FullClassName>ClosestGridsAddin.App</FullClassName>
+    <ClientId>a77c5a2e-5c1c-4fd1-990e-09961e384f93</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>Muhammad Gamal</VendorDescription>
+  </AddIn>
+</RevitAddIns>
